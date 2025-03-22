@@ -50,7 +50,7 @@ const DashboardPage = () => {
 
       {/* 🔹 Default RequestForm and Results block */}
       <div style={{ border: "2px solid #aaa", padding: "1rem", marginBottom: "2rem" }}>
-        <h3>🌐 Default Block</h3>
+        <h3> Default Block</h3>
         {loading && <p style={{ color: "blue" }}>Processing API requests...</p>}
         <RequestForm onSubmit={handleSubmit} />
 
@@ -93,7 +93,7 @@ const DashboardPage = () => {
 
       {/* 🔹 Add Independent RequestBlock Instances */}
       <button onClick={addBlock} style={{ marginBottom: "1rem" }}>
-        ➕ Add Request Block
+        Add Request Block
       </button>
 
       {blocks.map((_, index) => (
