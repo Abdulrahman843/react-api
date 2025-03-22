@@ -37,7 +37,7 @@ Backend (Render): 🔗 Backend API: [https://react-api-backend.onrender.com](htt
 - Deployed on **Vercel**
 
 ### Backend
-- Node.js + Express.js
+- Node.js + Express.js + MongoDB
 - API mocking and response simulation
 - Deployed on **Render**
 
