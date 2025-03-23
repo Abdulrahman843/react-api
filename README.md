@@ -75,7 +75,7 @@ npm start
 ## Author
 Abdulrahman Laoye
 Web & Mobile App Developer | Civil Engineer
-LinkedIn: https://www.linkedin.com/in/abdulrahman-adewale-laoye-0bb28b105 • Portfolio: https://abdulrahman-portfolio-eight.vercel.app/
+LinkedIn: https://www.linkedin.com/in/abdulrahman-adewale-laoye-0bb28b105 • Portfolio: https://modified-portfolio-website.vercel.app/
 
 ## License
 This project is open-source and available under the MIT License.
